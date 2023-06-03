@@ -1,0 +1,7 @@
+10  DEPT-commercial section  ROLE-manager
+11  DEPT-artificial inteligence  ROLE-assistant
+12  DEPT-IT section  ROLE-manager
+13  DEPT-IT section  ROLE-assistant
+14  DEPT-money section  ROLE-manager
+15  DEPT-artificial inteligence  ROLE-assistant
+16  DEPT-commercial section  ROLE-manager
